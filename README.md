@@ -50,7 +50,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats-alpha-ruddy.vercel.app/api/top-langs/?username=lashatatu&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-alpha-ruddy.vercel.app/api/top-langs/?username=lashatatu&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
