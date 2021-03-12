@@ -1,3 +1,4 @@
+<p align="left"> <a href="https://twitter.com/lashatatu" target="blank"><img src="https://img.shields.io/twitter/follow/lashatatu?logo=twitter&style=for-the-badge" alt="lashatatu" /></a> </p>
 <h1 align="center">Hi 👋, I'm lasha</h1>
 <h3 align="center">I'm Front-End Developer, involved in Politics in Georgia!!</h3>
 
