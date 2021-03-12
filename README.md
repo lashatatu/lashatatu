@@ -65,6 +65,8 @@
 ### DATA
 
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
 
 <br />
 <br />
