@@ -29,7 +29,6 @@
 <img align="left" alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 <br />
-
 <br />
 
 
@@ -40,7 +39,6 @@
 <img align="left" alt="TAILWIND CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img align="left" alt="MATERIAL-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img align="left" alt="STYLED COMPONENTS" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-
 <img align="left" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
 <br />
@@ -59,6 +57,8 @@
 ### JAVA
 
 <img align="left" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
 
 ### DATA
 
