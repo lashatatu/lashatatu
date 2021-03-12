@@ -15,14 +15,9 @@
 
 <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-<img align="left" alt="Intellij IDEA" src="https://raw.githubusercontent.com/simple-icons/simple-icons/e9fb9bc6e163096b34698c01a11737c4a75a3ca6/icons/intellijidea.svg"/>
-
-
 <img align="left" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
 
 <img align="left" alt="Terminal" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
