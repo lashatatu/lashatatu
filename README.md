@@ -14,9 +14,17 @@
 ### Tools:
 
 <img align="left" alt="Visual Studio Code" width="88px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
 <img align="left" alt="Intellij IDEA" width="88px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/e9fb9bc6e163096b34698c01a11737c4a75a3ca6/icons/intellijidea.svg"/>
+
+
 <img align="left" alt="Git" width="88px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+
 <img align="left" alt="GitHub" width="88px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+
 <img align="left" alt="Terminal" width="88px" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 <br />
