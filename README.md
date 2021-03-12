@@ -31,6 +31,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
 
 <br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lashatatu)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
