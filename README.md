@@ -64,11 +64,12 @@
 
 ### DATA
 
-<img align="left" width="28px" alt="GraphQL" width="66px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="MongoDB" width="66px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <br />
 <br />
+
+### Stats
 
 [![Top Langs](https://github-readme-stats-alpha-ruddy.vercel.app/api/top-langs/?username=lashatatu&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
