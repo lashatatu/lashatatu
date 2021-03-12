@@ -54,6 +54,10 @@
 
 <br />
 
+![Lashas's GitHub stats](https://github-readme-stats-alpha-ruddy.vercel.app/api?username=lashatatu&theme=dark&show_icons=true)
+
+<br />
+
 [twitter]: https://twitter.com/lashatatu
 [instagram]: https://www.instagram.com/lashatatu1/
 [linkedin]: https://www.linkedin.com/in/lashatatu/
