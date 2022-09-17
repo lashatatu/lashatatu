@@ -4,13 +4,10 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👯 I’m looking to collaborate on **Social Activism Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lashatatu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lashatatu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lashatatu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lashatatu" height="30" width="40" /></a>
 <a href="https://fb.com/lashatatu1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lashatatu1" height="30" width="40" /></a>
 </p>
@@ -18,7 +15,7 @@
 <img alt="github Profile Summary Cards" width="100%" align=center src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lashatatu&theme=nord_dark" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lashatatu&theme=nord_dark)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lashatatu&theme=dark" alt="lashatatu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lashatatu&theme=nord_dark" alt="lashatatu" /></p>
 
 
 
