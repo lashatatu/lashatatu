@@ -15,7 +15,7 @@
 <img alt="github Profile Summary Cards" width="100%" align=center src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lashatatu&theme=nord_dark" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lashatatu&theme=nord_dark)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lashatatu&theme=nord_dark" alt="lashatatu" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lashatatu&theme=nord_dark)
 
 
 
